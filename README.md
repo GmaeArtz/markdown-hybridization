@@ -1,11 +1,7 @@
 # Markdown sobre Aplicaciones Web
-
-
-## Inicio
-
 Aquí se situaría un pequeño índice para movernos más rápido.
 
-* [Inicio](#inicio)
+* [Inicio](#markdown-sobre-aplicaciones-web)
 * [Hibridación en Aplicaciones Web](#hibridación-en-aplicaciones-web)
   * [Definición](#definición)
   * [Ejemplos](#ejemplos)
