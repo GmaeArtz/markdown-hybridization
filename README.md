@@ -6,12 +6,12 @@ Aquí se situaría un pequeño índice para movernos más rápido.
 
 * [Inicio](#inicio)
 * [Hibridación en Aplicaciones Web](#hibridación-en-aplicaciones-web)
-  * [Definición](#Definición)
-  * [Ejemplos](#Ejemplos)
-* [Ensayo sobre "Las gafas de Manovich"]#ensayo-sobre-las-gafas-de-manovich)
-  * [Explicación](#Explicación)
+  * [Definición](#definición)
+  * [Ejemplos](#ejemplos)
+* [Ensayo sobre "Las gafas de Manovich"](#ensayo-sobre-las-gafas-de-manovich)
+  * [Explicación](#explicación)
   * [Aplicaciones](#aplicaciones-que-hacen-referencia)
-* [Referencias](#Referencias)
+* [Referencias](#referencias)
 
 
 
