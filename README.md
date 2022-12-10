@@ -3,7 +3,7 @@
 ## Inicio
 Aquí se situaría un pequeño índice para movernos más rápido.
 
-[toc]
+* [Inicio](#inicio)
 
 ## Hibridación en Aplicaciones Web
 
