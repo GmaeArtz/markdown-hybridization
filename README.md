@@ -31,7 +31,7 @@ A su contra parte están las <u>Aplicaciones Nativas</u>, que son aquellas aplic
 > [Twitter](https://www.twitter.com): Es otra aplicación que también hace el mismo uso que Instagram, mediante la hibridación entre su lenguaje para permitir así su uso en ordenadores y dispositivos móviles.
 
 
-
+#
 
 
 ## Ensayo sobre "Las gafas de Manovich"
