@@ -1,9 +1,19 @@
 # Markdown sobre Aplicaciones Web
 
 ## Inicio
+
 Aquí se situaría un pequeño índice para movernos más rápido.
 
 * [Inicio](#inicio)
+* [Hibridación en Aplicaciones Web](#Hibridación en Aplicaciones Web)
+  * [Definición](#Definición)
+  * [Ejemplos](#Ejemplos)
+* [Ensayo sobre "Las gafas de Manovich"](#Ensayo sobre Las gafas de Manovich)
+  * [Explicación](#Explicación)
+  * [Aplicaciones](#Aplicaciones que hacen referencia)
+* [Referencias](#Referencias)
+
+
 
 ## Hibridación en Aplicaciones Web
 
